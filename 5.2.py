@@ -1,0 +1,1 @@
+str_1 = "Programming on Python is very fun and "
